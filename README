@@ -1,0 +1,29 @@
+# Days of Year
+
+DaysOfYear is a package to get and return all days of the all months of the year.
+
+## Installation
+
+Use the node package manager (npm) to install foobar.
+
+```bash
+npm install daysofyear
+```
+
+## Usage
+
+```javascript
+const days = require("daysofyear")
+
+console.log(days.vector)
+# returns ['1/1/2019, 2/1/2019, ...']
+console.log(days.simple)
+# returns [[1/1/2019, 2/1/2019, ...],[1/2/2019, 2/2/2019, ...]]
+
+```
+
+## Contributing
+-- 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

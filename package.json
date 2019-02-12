@@ -1,0 +1,27 @@
+{
+  "name": "daysofyear",
+  "version": "1.0.1",
+  "description": "Get all days of year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "days",
+    "of",
+    "year",
+    "get",
+    "all",
+    "days",
+    "in",
+    "months",
+    "months",
+    "return",
+    "days",
+    "of",
+    "all",
+    "months"
+  ],
+  "author": "Anderson de Castro | @_andersondecastro (IG)",
+  "license": "ISC"
+}
