@@ -4,7 +4,7 @@ DaysOfYear is a package to get and return all days of the all months of the year
 
 ## Installation
 
-Use the node package manager (npm) to install foobar.
+Use the node package manager (npm) to install.
 
 ```bash
 npm install daysofyear
